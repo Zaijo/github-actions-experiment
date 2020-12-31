@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Fixed shell script"
+echo "Fixed shell script" & &
